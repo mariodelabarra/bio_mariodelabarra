@@ -1,10 +1,7 @@
-soleado y alegrias
+﻿soleado y alegrias
 tiempo de otoÃ±o
 ganas de verano
 vacaciones de fin de año
 vacaciones de diciembre
-<<<<<<< HEAD
 Corregido error de vacaciones diciembre
-=======
 Incidencia en registro de vacaciones
->>>>>>> e731996a70fc2aafaa5ee9ddc0adcfaa006d6a86
